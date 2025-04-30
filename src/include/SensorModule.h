@@ -11,4 +11,5 @@ class SensorModule {
 public:
     SensorModule();
     SensorData readSensors();
+    
 };
